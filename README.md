@@ -8,4 +8,4 @@
 
 
 It is also possible to create a CMD-based OS. Evidence of this capability is as follows: the AluOS team, winner of the Gold Award in the elementary division at the Korea Code Fair.
-![m](./ddd.webp)
+![ddd](./ddd.webp)
